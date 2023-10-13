@@ -1,7 +1,7 @@
 {
    "files": [    
 {
-         "name": "VIP-TH-OK-Rider-TRUE",
+         "name": "VIP-TH-OK-Rider00-TRUE",
          "url": "https://raw.githubusercontent.com/BMW2003ZX/Okrider/main/OK-Rider.ovpn"
       }
 ,
@@ -14,5 +14,5 @@
 ยินดีต้อนเข้าสู่ OK-Rider VPN
 \n\nเวอร์ชั่นไฟล์:1",
 "title":"New Update File" ,
-   "version":2
+   "version":3
 }
